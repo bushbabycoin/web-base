@@ -807,6 +807,13 @@
     "category": "defi",
     "subcategory": "lending/borrowing"
   },
+    "name": "BushBaby (BBBY)",
+    "description": "BBBY Launchpad is a Base-native DeFi tool for creating tokens, adding liquidity, and locking LP on leading DEXs—focused on transparency, safety, and simple on-chain launches.",
+    "url": "https://www.bushbabycoin.org/",
+    "imageUrl": "/images/partners/bbby.png",
+    "category": "defi",
+    "subcategory": "liquidity management"
+  },
   {
     "name": "Cat Town",
     "description": "Cat Town is an idle economy game where you can collect cats, earn rewards and embark on adventures! Discover tradable items and unlock soulbound NFTs and achievements!",
